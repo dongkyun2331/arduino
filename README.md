@@ -1,0 +1,1 @@
+<a href="https://squareline.io/downloads" target="_blank">Squareline Downloads</a>
