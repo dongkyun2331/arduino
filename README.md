@@ -1,6 +1,14 @@
+# ESP32
+
 ```
 https://squareline.io/downloads
 ```
 [Squareline Downloads](https://squareline.io/downloads)
 
-![image](https://github.com/dongkyun2331/arduino/assets/119479530/73ef0cf3-8d4e-49af-a910-c1e670915b4d)
+Create > Arduino > Arduino with TFT_eSPI > PROJECT SETTINGS > CREATE > OVERWRITE 
+
+Export > Create Template Project > Export UI Files
+
+vscode > Extensions > PlatformIO > open > New Project > Board > Espressif ESP32 Dev Module > Framework > Arduino
+
+[arduino ide get start](https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/#config-file-windows-pc)
