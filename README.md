@@ -14,4 +14,4 @@ vscode > Extensions > PlatformIO > open > New Project > Board > Espressif ESP32 
 
 [arduino ide get start](https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/#config-file-windows-pc)
 
-[Download User-Setup.h](https://github.com/dongkyun2331/user-setup/blob/main/User_Setup.h)
+[User-Setup.h](https://github.com/dongkyun2331/user-setup/blob/main/User_Setup.h)
